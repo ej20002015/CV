@@ -23,11 +23,22 @@
 - Build systems (Premake)
 - Operating System Architecture
 
-## Projects
+## Experience
 
-- Diss
+- Dissertation (**Univeristy of Leeds**)
   - Clean and performant C++ code
-  - A complete review of PBS, building up from physical principles, to mathematical models and culminating in a robust implementation
-  - Researched thoroughly the area of PBS and wrote a report that reviewed the area in considerable detail
-- 2D Game Engine
-- QM
+  - A complete review of physically based shading, building from the theory to a robust implementation
+- 2D Game Engine (**Personal project**)
+  - Created a batch renderer
+  - Created a level editor interface
+- Query Manager (**PwC**)
+  - Led development of a query management tool that is used by 100+ employees daily
+  - Frequently communicated with stakeholders to ascertain requirements, prioritise development work and schedule releases
+  - Helped to refine the team's software development lifecycle
+
+## Education
+
+- Computer Science BSc from the University of Leeds
+  - Acheived a first with an average grade of 85% over all my modules
+- A levels in Maths, Electronics, and Computer Science
+  - A*, A*, A respectively
