@@ -1,12 +1,14 @@
-### **Evan James** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [https://github.com/ej20002015/](https://github.com/ej20002015/) | ej20002011@hotmail.co.uk
+### **Evan James**
+ej20002011@hotmail.co.uk | [github.com/ej20002015](github.com/ej20002015)
+
 ---
 
-A lovely fellow who would be a great addition to your company. Makes a fantastic burger and chips if you ask him nicely!
+Software engineer with a passion for low level programming. During my technology degree apprenticeship with PwC and the University of Leeds, I lead development of a ticket management application, and received an award for attaining the highest results within my 250+ person cohort. I'm now seeking a new challenge. In my spare time I enjoy reading, cooking, playing guitar and pursuing personal programming projects.
 
 ## Skills
 - C++, C, Python
 - Appreciation for clean code and good API design
-- Low level programming - memory management, OS and hardware architecture, compiler design
+- Low level programming - memory management, cache optimisation, OS and hardware architecture, compiler design
 - GPU programming - GPGPU programming, graphics shaders, GPU hardware
 - Parallel computation - OpenMP, MPI, synchronisation techniques, load balancing
 - Networking - TCP/IP, TLS, HTTP
@@ -16,10 +18,13 @@ A lovely fellow who would be a great addition to your company. Makes a fantastic
 
 ## Projects
 
-- **PwC** | Query Manager Lead Developer
-  - Led development of a ticket management tool that is used by 100+ employees daily
-  - Frequently communicated with stakeholders to ascertain requirements, prioritise development work and schedule releases
-  - Helped to refine the team's software development lifecycle and supported other developers
+- **PwC** | *Sep 2018 - present*
+  - Query Manager Lead Developer
+    - Led development of a ticket management tool that is used by 100+ employees daily
+    - Frequently communicated with stakeholders to ascertain requirements, prioritise development work and schedule releases
+    - Helped to refine the team's software development lifecycle and supported other developers
+  - RPA Scheduling Platform
+    - Developed a proof of concept python web application 
 - **University of Leeds** | [Dissertation](https://github.com/ej20002015/PhysicallyBasedRenderer)
   - Conducted a complete review of physically based shading, building from the physical and mathematical theory to a robust implementation
   - Produced clean and performant C++ code with a focus on API design
