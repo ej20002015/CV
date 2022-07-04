@@ -35,7 +35,7 @@ Software engineer with a passion for low level programming. During my technology
 ## Education
 
 - **Computer Science BSc** from the University of Leeds
-  - Graduated with a first having achieved an average grade of 85% (to be filled in) over all modules
+  - Graduated with a first having achieved an average grade of 89% over all modules
   - Featured on the Dean's List and was awarded top performing student of the year
 - **A Levels** in Maths, Electronics, and Computer Science
   - A*, A*, A respectively
