@@ -3,7 +3,7 @@ ej20002011@hotmail.co.uk | [github.com/ej20002015](github.com/ej20002015)
 
 ---
 
-Software engineer with a passion for low level programming. During my technology degree apprenticeship with PwC and the University of Leeds, I lead development of a ticket management application, and received an award for attaining the highest results within my 250+ person cohort. I'm now seeking a new challenge. In my spare time I enjoy reading, cooking, playing guitar and pursuing personal programming projects.
+Software engineer with a passion for low level programming. During my technology degree apprenticeship with PwC and the University of Leeds, I lead development of a ticket management application, and received an award for graduating with the highest results within my 250+ person cohort. I'm now seeking a new challenge. In my spare time I enjoy reading, cooking, playing guitar and pursuing personal programming projects.
 
 ## Skills
 - C++, C, Python
@@ -35,7 +35,8 @@ Software engineer with a passion for low level programming. During my technology
 ## Education
 
 - **Computer Science BSc** from the University of Leeds
+  - Graduated as the top performing student within the School of Computing
   - Graduated with a first having achieved an average grade of 89% over all modules
-  - Featured on the Dean's List and was awarded top performing student of the year
+  - Featured on the Dean's List
 - **A Levels** in Maths, Electronics, and Computer Science
   - A*, A*, A respectively
